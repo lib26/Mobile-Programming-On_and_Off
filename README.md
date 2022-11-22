@@ -1,31 +1,51 @@
 # 👔👕On_and_Off👖🩳
 ```xml
 We provide both,   
-QR코드 인식으로 온라인과 오프라인의 결합을 만나보세요!
+QR코드 인식으로 온라인 기능과 오프라인 기능의 결합을 만나보세요!
 ```
 # 🎥🎬Demo video📽📺
 https://youtu.be/NHY4dgQMNQE
 
-### 1. Home  
-![image](https://user-images.githubusercontent.com/82303989/171528107-9bf9c829-5940-458b-a4ad-706ad03257c0.png)
+## Log-in & Register
+<img width="699" alt="image" src="https://user-images.githubusercontent.com/38834177/203376019-01f22f7c-97d7-4c95-adf8-4db657518d97.png">
 
-### 2. board screen
-![image](https://user-images.githubusercontent.com/82303989/171528397-5d604092-e952-40b0-ae83-76fbdeab18b4.png)
+## Passsword initializing
+<img width="696" alt="image" src="https://user-images.githubusercontent.com/38834177/203376190-5f0b08a5-39ee-410a-9493-e271ce6a1409.png">
 
-### 3. search screen
-![image](https://user-images.githubusercontent.com/82303989/171528455-d8d2a0bd-ce36-41af-b848-0e8630502569.png)
+## Enterprise Mode - Generate and Manage QR
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/38834177/203376332-88b8c391-cbfc-4591-8c7d-973d4c9f1785.png">
+<img width="693" alt="image" src="https://user-images.githubusercontent.com/38834177/203376374-69490a66-27d3-4d15-a023-2e2697823b38.png">
+<img width="697" alt="image" src="https://user-images.githubusercontent.com/38834177/203376407-3e06007d-befa-4a48-8731-53386eeba4f3.png">
 
-### 4. personal profile
-![image](https://user-images.githubusercontent.com/82303989/171528507-d624b4a9-c050-43c4-9db7-9f787cf4c7e7.png)
+## User Mode - QR Scan
+<img width="690" alt="image" src="https://user-images.githubusercontent.com/38834177/203376493-29f58482-b5ba-4ca9-8b11-e6748c2ef477.png">
+<img width="667" alt="image" src="https://user-images.githubusercontent.com/38834177/203376549-0ab33b90-37ac-4a29-9435-592ec88b17a8.png">
+<img width="690" alt="image" src="https://user-images.githubusercontent.com/38834177/203376610-8cd8e26d-a55f-41e7-9699-7d7002c471a8.png">
 
-### 4-1. Closet
-![image](https://user-images.githubusercontent.com/82303989/171528716-4c2775fa-294c-4df5-aec9-f80d59938c39.png)
+## User Mode - SNS
+<img width="696" alt="image" src="https://user-images.githubusercontent.com/38834177/203377022-91f5d56b-c8cb-4aef-a60d-7be1807a3ba2.png">
+<img width="697" alt="image" src="https://user-images.githubusercontent.com/38834177/203377078-6017a7fe-ddd2-4f5a-80f0-e9a3428c0cc5.png">
 
-### 4-2. Bookmark
-![image](https://user-images.githubusercontent.com/82303989/171528616-5afebcd0-d433-4395-b1a7-c4b9d2784b24.png)
+## User Mode - Search
+<img width="692" alt="image" src="https://user-images.githubusercontent.com/38834177/203377171-bbe4fbab-9435-4575-ad7f-0d9b4b857f00.png">
 
-### 5. Settings
-![image](https://user-images.githubusercontent.com/82303989/171528802-6e06209f-31cb-4e04-8ebf-85736e5c1501.png)
+## User Mode - Profile
+<img width="696" alt="image" src="https://user-images.githubusercontent.com/38834177/203377315-25dd1ebd-e100-4028-9a39-98a69f870c96.png">
+<img width="694" alt="image" src="https://user-images.githubusercontent.com/38834177/203377337-5adf56b7-73e9-492c-b266-ec1650f54b2f.png">
+
+## User Mode - setting
+<img width="697" alt="image" src="https://user-images.githubusercontent.com/38834177/203377436-a3e44aca-a37d-41cb-803c-ce11771aa792.png">
+
+## System - Background Alarm
+<img width="697" alt="image" src="https://user-images.githubusercontent.com/38834177/203378970-96c6fe53-b8ed-43fd-91c6-1a10f1f1e8a3.png">
+
+## System - Automatic Sign-in
+<img width="697" alt="image" src="https://user-images.githubusercontent.com/38834177/203379056-41ad38b7-bee9-43b8-a2d7-edd6a0079ebe.png">
+
+
+## Our Team
+<img width="695" alt="image" src="https://user-images.githubusercontent.com/38834177/203377772-c31d4c78-9dd6-46fa-b352-c635ea8e114c.png">
+
 
 ## See more details and whole process in the demo video  
 ```xml
