@@ -9,7 +9,7 @@ QR코드 인식으로 온라인 기능과 오프라인 기능의 결합을 만�
 ```
 
 # 🎥🎬Demo video📽📺
-#### Pleaze Click and Watch
+#### Please click and watch
 https://youtu.be/NHY4dgQMNQE
 
 # Detail of Function
