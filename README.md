@@ -1,10 +1,18 @@
 # 👔👕On_and_Off👖🩳
+
+### What is On & Off?
+<img width="634" alt="image" src="https://user-images.githubusercontent.com/38834177/203379979-2f089725-1f2d-4905-8cf2-6b9dffb1d34a.png">
+
 ```xml
 We provide both,   
 QR코드 인식으로 온라인 기능과 오프라인 기능의 결합을 만나보세요!
 ```
+
 # 🎥🎬Demo video📽📺
+#### Pleaze Click and Watch
 https://youtu.be/NHY4dgQMNQE
+
+# Detail of Function
 
 ## Log-in & Register
 <img width="699" alt="image" src="https://user-images.githubusercontent.com/38834177/203376019-01f22f7c-97d7-4c95-adf8-4db657518d97.png">
