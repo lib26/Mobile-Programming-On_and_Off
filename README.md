@@ -9,7 +9,7 @@ https://youtu.be/NHY4dgQMNQE
 ## Log-in & Register
 <img width="699" alt="image" src="https://user-images.githubusercontent.com/38834177/203376019-01f22f7c-97d7-4c95-adf8-4db657518d97.png">
 
-## Passsword initializing
+## Password initializing
 <img width="696" alt="image" src="https://user-images.githubusercontent.com/38834177/203376190-5f0b08a5-39ee-410a-9493-e271ce6a1409.png">
 
 ## Enterprise Mode - Generate and Manage QR
@@ -36,10 +36,8 @@ https://youtu.be/NHY4dgQMNQE
 ## User Mode - setting
 <img width="697" alt="image" src="https://user-images.githubusercontent.com/38834177/203377436-a3e44aca-a37d-41cb-803c-ce11771aa792.png">
 
-## System - Background Alarm
+## System - Background Alarm & Automatic Sign-in
 <img width="697" alt="image" src="https://user-images.githubusercontent.com/38834177/203378970-96c6fe53-b8ed-43fd-91c6-1a10f1f1e8a3.png">
-
-## System - Automatic Sign-in
 <img width="697" alt="image" src="https://user-images.githubusercontent.com/38834177/203379056-41ad38b7-bee9-43b8-a2d7-edd6a0079ebe.png">
 
 
